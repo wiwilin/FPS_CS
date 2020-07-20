@@ -1,1 +1,1 @@
-![pic](https://github.com/wiwilin/FPS_CS/blob/master/Source/FPSCapture.PNG)
+![pic](https://github.com/wiwilin/FPS_CS/blob/master/Source/FPSCapture.jpg)
